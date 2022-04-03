@@ -1,4 +1,5 @@
-# Six Degrees of Minecraft YouTubers
+# Collab Circles
+### Or: the Six Degrees of Minecraft YouTubers
 
 Want to figure out the connections between two random people on YouTube who played Minecraft for no reason? 
 Based on the Six Degrees of Kevin Bacon.
